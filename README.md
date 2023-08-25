@@ -1,7 +1,10 @@
 # Xuan's Github
 
-### Personal Webpage: https://xuanlin129.github.io
+<div align="center">
+	<img src="hello.gif" width="100vw">
+</div>
 
+### Personal Webpage: https://xuanlin129.github.io
 - ## Tools and Skills ⚒️
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
