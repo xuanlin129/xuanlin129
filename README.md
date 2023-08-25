@@ -28,6 +28,12 @@
 <br>
 <br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice)
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuanlin&theme=apprentice)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuanlin&theme=apprentice)
+--->
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true)
 
 <!---
