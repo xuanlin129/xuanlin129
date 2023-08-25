@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @xuanlin129
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Xuan's Github
+
+### Personal Webpage: https://xuanlin129.github.io
 
 - ## Tools and Skills ⚒️
 <p align="left">
@@ -22,6 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true)
 
