@@ -1,4 +1,3 @@
-# Xuan's Github
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xuanlin129.github.io)
 
 <div align="center">
