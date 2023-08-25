@@ -28,9 +28,6 @@
 <br>
 <br>
 
-[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true)
 
 <!---
