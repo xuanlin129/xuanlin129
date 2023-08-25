@@ -1,9 +1,5 @@
 # Xuan's Github
 
-<div align="center">
-	<img src="hello.gif" width="100vw">
-</div>
-
 ### Personal Webpage: https://xuanlin129.github.io
 - ## Tools and Skills ⚒️
 <p align="left">
