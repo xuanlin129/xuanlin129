@@ -1,14 +1,16 @@
 ## 🙆🏻‍♂️ Hello, I'm Xuan!
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/xuanlin129)
-[![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=GoogleChrome&logoColor=white)](lin870129@gmail.com](https://xuanlin129.github.io)
+[![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=GoogleChrome&logoColor=white)](https://xuanlin129.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lin870129@gmail.com)
 <!--[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]()-->
 
 ### 🧑🏻‍💻 Welcome to my github, I'm currently learning React.js!
 
 <img align="right" src="hello.gif" width="50%">
+
     <xuan>About me</lin>
-    <good>front-end developer, web designer</good>
+    <good>Front-end Developer, Web Designer</good>
+    
 #### Languages and Tools:
   <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
