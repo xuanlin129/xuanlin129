@@ -34,9 +34,9 @@
 <div align="center"><img width="85%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
 <br>
 <div align="center">
-  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuanlin129&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="xuanlin129" />
+  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuanlin129&show_icons=true&locale=en&layout=compact&theme=apprentice&hide_border=true" alt="xuanlin129" />
   &ensp;
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=xuanlin129&show_icons=true&locale=en&theme=apprentice" alt="xuanlin129" />
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=xuanlin129&show_icons=true&locale=en&theme=apprentice&hide_border=true" alt="xuanlin129" />
 </div>
 
 <div align="center">
