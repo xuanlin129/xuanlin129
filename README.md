@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </p>
 
-<div align="center"><img width="85%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
+<div align="center"><img width="90%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
 <br>
 <div align="center">
   <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuanlin129&show_icons=true&locale=en&layout=compact&theme=apprentice&hide_border=true" alt="xuanlin129" />
