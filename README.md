@@ -1,7 +1,7 @@
 ## 🙆🏻‍♂️ Hello, I'm Xuan!
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/xuanlin129)
 [![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=GoogleChrome&logoColor=white)](https://xuanlin129.github.io)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lin870129@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lin870129@gmail.com)
 <!--[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]()-->
 
 ### 🧑🏻‍💻 Welcome to my github, I'm currently learning React.js!
