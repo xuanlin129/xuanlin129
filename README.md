@@ -7,7 +7,7 @@
 
 ### 🧑🏻‍💻 Welcome to my github, I'm currently learning React.js!
 
-<img align="right" src="hello.gif" width="50%">
+<img align="right" src="Xuan.gif" width="30%">
 
     <xuan>About me</lin>
     <good>Front-end Developer, Web Designer</good>
