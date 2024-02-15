@@ -39,13 +39,11 @@
   <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=xuanlin129&show_icons=true&locale=en&theme=apprentice&hide_border=true" alt="xuanlin129" />
 </div>
 
-<!--
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true" traget="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </div>
--->
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true)
