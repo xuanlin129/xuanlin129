@@ -40,14 +40,10 @@
 </div>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
   </a>
 </div>
-
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true)
--->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuanlin129&" alt="xuanlin129" /></p>-->
 
