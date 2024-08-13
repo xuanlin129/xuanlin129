@@ -29,7 +29,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    <img src="https://w7.pngwing.com/pngs/587/253/png-transparent-adobe-photoshop-hd-logo-thumbnail.png" alt="photoshop" width="40" height="40"/>
   </div>
 
 <div align="center"><img width="90%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
