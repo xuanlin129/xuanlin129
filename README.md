@@ -7,7 +7,7 @@
 
 ### 🧑🏻‍💻 Welcome to my github, I'm currently Front-end Engineer!
 
-<img align="right" src="Xuan.gif" width="30%">
+<img align="right" src="/images/logo-xuan.png" width="20%">
 
     <xuan>About me</lin>
     <good>Front-end Developer, Web Designer</good>
