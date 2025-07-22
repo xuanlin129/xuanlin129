@@ -7,10 +7,10 @@
 
 ### 🧑🏻‍💻 Welcome to my github, I'm currently Front-end Engineer!
 
-<img align="right" src="/images/logo-xuan.png" width="20%">
+<img align="center" src="/images/logo-xuan.png" width="20%">
 
-    <xuan>About me</lin>
-    <good>Front-end Developer, Web Designer</good>
+<!-- <xuan>About me</lin>
+<good>Front-end Developer, Web Designer</good> 
     
 #### Languages and Tools:
   <div align="left" width="50%"> 
@@ -31,6 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     <img src="https://avatars.githubusercontent.com/u/4542585?s=200&v=4" alt="photoshop" width="40" height="40"/>
   </div>
+  -->
 
 <div align="center"><img width="90%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
 <br>
