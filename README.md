@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/Xuan#3145)
 <!--[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]()-->
 
-### 🧑🏻‍💻 Welcome to my github, I'm currently Front-end Engineer!
+### 🧑🏻‍💻 Welcome to my github, I'm Front-end Develper!
 
 <img align="center" src="/images/logo-xuan.png" width="20%">
 
