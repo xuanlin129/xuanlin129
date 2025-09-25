@@ -9,6 +9,15 @@
 
 <img align="center" src="/images/logo-xuan.png" width="20%">
 
+## 💻 Tech Stack
+
+| Category     | Technologies |
+|-------------|--------------|
+| Front-End   | JavaScript, Vue, React, Vuetify, Ant Design, GSAP |
+| Back-End    | Node.js |
+| Database    | MongoDB |
+| Misc        | Git |
+
 <!-- <xuan>About me</lin>
 <good>Front-end Developer, Web Designer</good> 
     
