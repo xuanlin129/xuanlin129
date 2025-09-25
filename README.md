@@ -1,4 +1,4 @@
-## 🙆🏻‍♂️ Hello, I'm Xuan!
+## Hello, I'm Xuan!
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/xuanlin129)
 [![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=GoogleChrome&logoColor=white)](https://xuanlin129.github.io)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xuan.lin129@gmail.com)
@@ -33,13 +33,11 @@
   </div>
   -->
 
-<div align="center"><img width="90%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice"></div>
-<br>
-<div align="center">
-  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuanlin129&show_icons=true&locale=en&layout=compact&theme=apprentice&hide_border=true" alt="xuanlin129" />
-  &ensp;
-  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=xuanlin129&show_icons=true&locale=en&theme=apprentice&hide_border=true" alt="xuanlin129" />
-</div>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuanlin129&theme=apprentice)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuanlin129&theme=apprentice)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuanlin129&theme=apprentice)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuanlin129&theme=apprentice)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xuanlin129&theme=apprentice&utcOffset=8)
 
 <!--<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ljg53skxio2foe5evh2n7qz3qi&redirect=true" target="_blank">
