@@ -14,10 +14,10 @@ export default {
   pronouns: 'He' || 'Him',
   country: 'Taiwan',
   technologies: {
-    frontEnd: ['JavaScript', 'jQuery', 'React', 'React Native', 'Ant Design', 'Vue', 'Vuetify'],
-    backEnd: ['Node.js'],
-    database: ['MongoDB'],
-    misc: ['Git'],
+    frontEnd: ['React', 'Next.js', 'Ant Design', 'RJSF', 'Styled-components'],
+    backEnd: ['Node.js', 'Express'],
+    database: ['MongoDB', 'Mongoose'],
+    misc: ['TypeScript', 'Zod', 'Git'],
   },
   hobby: '✨ crafting UI that feels alive ✨',
 };
